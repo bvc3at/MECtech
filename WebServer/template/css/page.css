@@ -1,0 +1,23 @@
+header {
+    height: 50px !important;
+}
+#mini-logo {
+	height: 50px;
+	width: 170px;
+}
+#text-title {
+	margin-top: -15px;
+}
+.content {
+	margin: 100px 10px;
+}
+.thumbnail-preview {
+	max-width: 200px;
+}
+img {
+	max-width: 640px;
+	max-height: 480px;
+}
+.second-menu:before {
+	content: " ¬ ";
+}

@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'icomoon';
+    src:url('/fonts/icomoon.eot?za97ec');
+    src:url('/fonts/icomoon.eot?#iefixza97ec') format('embedded-opentype'),
+    url('/fonts/icomoon.woff?za97ec') format('woff'),
+    url('/fonts/icomoon.ttf?za97ec') format('truetype'),
+    url('/fonts/icomoon.svg?za97ec#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    font-family: 'icomoon';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-map-marker:before {
+    content: "\f041";
+}
+.icon-warning:before {
+    content: "\f071";
+}
+.icon-lightbulb:before {
+    content: "\f0eb";
+}
+.icon-info:before {
+    content: "\f129";
+}
+.icon-clock:before {
+    content: "\f017";
+}
+.icon-long-arrow-down:before {
+    content: "\f175";
+}
+.icon-long-arrow-up:before {
+    content: "\f176";
+}
+.icon-flash:before {
+    content: "\f0e7";
+}
+.icon-spinner:before {
+    content: "\f110";
+}
+.icon-steam:before {
+    content: "\f1b6";
+}
+.icon-battery-0:before {
+    content: "\e600";
+}
+.icon-battery-20:before {
+    content: "\e601";
+}
+.icon-battery-40:before {
+    content: "\e602";
+}
+.icon-battery-60:before {
+    content: "\e603";
+}
+.icon-battery-80:before {
+    content: "\e604";
+}
+.icon-battery-100:before {
+    content: "\e605";
+}
+.icon-wind-turbine:before {
+    content: "\e606";
+}
+.icon-solar-battery:before {
+    content: "\e607";
+}

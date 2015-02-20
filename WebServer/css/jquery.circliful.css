@@ -1,0 +1,30 @@
+.circliful {
+    position: relative; 
+}
+
+.circle-text, .circle-info, .circle-text-half, .circle-info-half {
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.circle-text {
+    font-family: 'Days One', sans-serif;
+    color: #444;
+}
+
+.circle-info, .circle-info-half {
+	color: #999;
+}
+
+.circliful [class^='icon-'] {
+	margin: -10px 3px 0 10px;
+	position: relative;
+	bottom: 4px;
+}
+
+#sbop.circliful .circle-text {
+    color: #fff;
+}

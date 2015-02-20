@@ -1,0 +1,7 @@
+#ErrorDocument 404 http://mec-vlz.comuv.com/404
+AddDefaultCharset UTF-8
+php_flag display_startup_errors off
+php_flag display_errors off
+php_flag html_errors off
+php_flag log_errors off
+php_value error_log /log/php_error.log
